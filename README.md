@@ -1,8 +1,8 @@
 # minishell
 
-Lancer le programme  :
-# Make
-# ./minishell
+#Lancer le programme  :
+### Make
+### ./minishell
 
 Caractéristiques Techniques:
 
