@@ -1,8 +1,11 @@
-# minishell
+# minishell 42 project
+
 
 #Lancer le programme  :
-### Make
-### ./minishell
+1) ### Make
+2) ### ./minishell
+
+
 
 Caractéristiques Techniques:
 
